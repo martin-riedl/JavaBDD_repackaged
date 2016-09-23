@@ -1,6 +1,6 @@
 # Java Binary Decision Diagram
 
-JDD is a decision diagram library written in pure java. It supports [Binary Decision Diagrams][bdd] (BDD) and [Zero-suppressed Decision Diagram][zdd] (Z-BDD or just ZDD).
+JDD is a decision diagram library written in pure java. It supports Binary Decision Diagrams (BDD) and Zero-suppressed Decision Diagram (Z-BDD or just ZDD).
 
 There seems to be some ongoing development of the library at [1] (currently versioned with build number 107). 
 
@@ -10,4 +10,5 @@ In order to include this library as a git dependency of a project declared in an
 
 ###References:
 [1] https://bitbucket.org/vahidi/jdd/wiki/Home
+
 [2] https://github.com/ckaestne/JavaBDD_repackaged
